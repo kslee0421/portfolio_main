@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- 
+namespace : 그룹명 ( 중요 : namespace안에 있는 id는 절대 중복되어서는 안됌)
+ -->
+<mapper namespace="reviewDB">
+
+</mapper>
